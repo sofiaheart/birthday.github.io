@@ -1,5 +1,5 @@
 //Sets the date and time  the clock is counting down to
-var countDownDate = new Date("September 23, 2023 00:00:00").getTime();
+var countDownDate = new Date("September 22, 2023 23:00:00").getTime();
 
 //Updates the counter every second
 var x = setInterval(function() {
